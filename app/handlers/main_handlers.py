@@ -7,4 +7,6 @@ from app.keyboards.pagination_kb import create_pagination_keyboard
 
 from app.database import Database
 
+from app.enums import *
+
 router = Router()
